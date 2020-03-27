@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
         borderColor: '#000',
         //这里通过PixelRatiol来获取最小线宽
         borderWidth: 1,
-        flex: 0.5,
+        flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
     },
